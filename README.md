@@ -8,6 +8,10 @@
 
 html, css, фреймворк Tailwind, npm.
 
+## Ссылка
+
+https://yanballas.github.io/TailwindPaper/
+
 ## Goal
 
 Learning the TailwindCSS framework. Familiarizing with the concept of Atomic classes. Creating a static layout using default Tailwind settings.
@@ -15,3 +19,7 @@ Learning the TailwindCSS framework. Familiarizing with the concept of Atomic cla
 ## Technologies
 
 html, css, Tailwind framework, npm.
+
+## Link
+
+https://yanballas.github.io/TailwindPaper/
