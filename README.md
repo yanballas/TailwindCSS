@@ -1,4 +1,4 @@
-# TailwindCSS
+# TailwindPapers
 
 ## Цель
 
@@ -12,7 +12,7 @@ html, css, фреймворк Tailwind, npm.
 
 https://yanballas.github.io/TailwindPaper/
 
-## Goal
+## Tasks
 
 Learning the TailwindCSS framework. Familiarizing with the concept of Atomic classes. Creating a static layout using default Tailwind settings.
 
