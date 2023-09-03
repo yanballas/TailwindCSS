@@ -22,4 +22,4 @@ html, css, Tailwind framework, npm.
 
 ## Link
 
-[https://yanballas.github.io/TailwindPaper/](https://yanballas.github.io/TailwindPapers/)https://yanballas.github.io/TailwindPapers/
+[https://yanballas.github.io/TailwindPapers/](https://yanballas.github.io/TailwindPapers/)
