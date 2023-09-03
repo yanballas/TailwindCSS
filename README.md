@@ -10,7 +10,7 @@ html, css, фреймворк Tailwind, npm.
 
 ## Ссылка
 
-https://yanballas.github.io/TailwindPaper/
+https://yanballas.github.io/TailwindPapers/
 
 ## Tasks
 
